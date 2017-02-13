@@ -24,4 +24,4 @@
 *  `10/2017` or `11/2017`
 
 
-> 저희 단체는 장고걸스 Code of Conduct(https://github.com/DjangoGirlsSeoul/seminar)를 준수합니다.
+**저희 단체는 장고걸스 [Code of Conduct](https://github.com/DjangoGirlsSeoul/seminar)를 준수합니다.**
