@@ -20,7 +20,7 @@
 #### 5. Developer community events
 * [Korea Community Day 2017](http://kcd2017.onoffmix.com/) `02/25/2017`
 
-#### Django Girls Seoul hackathon (TBA) 
+#### 6. Django Girls Seoul hackathon (TBA) 
 *  `10/2017` or `11/2017`
 
 
