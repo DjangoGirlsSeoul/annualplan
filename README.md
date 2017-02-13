@@ -6,8 +6,8 @@
 
 #### 2. Django Girls Seoul Study
 * First study is ongoing (6 ~ 8 weeks)
-* Python and Django study group for beginners. 
-* Second study group for intermediate will start in April.
+* Python and Django study group for beginners
+* Second study group for intermediate will start in April
 * Join our [slack](http://slack.djangogirlsseoul.org/) channel for more info
 
 #### 3. Django Girls Seoul Seminar (TBA)
