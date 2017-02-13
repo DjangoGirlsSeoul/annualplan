@@ -1,7 +1,7 @@
 # Django Girls Seoul 2017
 
 #### 1. Django Girls Tutorial Workshop
-* Application availale in `06/2017`
+* Application available in `06/2017`
 * 1 day workshop for beginners with [Django Girls Tutorial](https://tutorial.djangogirls.org/ko/)
 
 #### 2. Django Girls Seoul Study
